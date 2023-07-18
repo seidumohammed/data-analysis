@@ -10,10 +10,6 @@ The project includes the following steps:
 
 ## The dashboard contains the following visualizations:
 
-
-
-
-
 ![Charts](sales-data-analysis-charts.JPG)
 ---
 ![Tables](sales-data-analysis-charts2.JPG)
@@ -26,7 +22,7 @@ https://github.com/seidumohammed/data-analysis/assets/55309288/9b5ecd6c-c59b-433
 --
 --- 
 ## Youtube Video Link
-`https://www.youtube.com/watch?v=XF5ThY7yH3E`
+Youtube: <https://www.youtube.com/watch?v=XF5ThY7yH3E>
 ---
 
 ## Author
