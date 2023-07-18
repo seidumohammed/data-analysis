@@ -16,26 +16,40 @@ Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/Excel>
 Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
----
+--
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts2.JPG)
 ---
+--
+---
+3. ### Python, Machine Learning Data Analysis Project
+### Project Description
+Simple Linear Regression model that seeks to advice investors on which growing startups to invest in
+---
+Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
+---
+![First 5 data](summary.JPG)
+---
+![Summary Statistics](summary.JPG)
+---
+![Visualization](chart.JPG)
+---
 
-3. ### Accident Data Analysis With Excel, Power BI and SQL 
+4. ### Accident Data Analysis With Excel, Power BI and SQL 
 ### Project Description
 Pushing to github soon
 ---
 ![Completed Project Dashboard](sales-data-excel.soon)
 ---
 
-4. ### Child Labour Data  Analysis with Python
+5. ### Child Labour Data  Analysis with Python
 ### Project Description
 Pushing to github soon
 ---
 ![Completed Project Dashboard](sales-data-excel.soon)
 ---
 
-5. ### Cricket Data Analysis Pythob, Pandas, Power BI
+6. ### Cricket Data Analysis Pythob, Pandas, Power BI
 
 ### Project Description
 Pushing to github soon
@@ -43,7 +57,7 @@ Pushing to github soon
 ![Completed Project Dashboard](sales-data-excel.soon)
 ---
 
-6. ### Product Recommendation Analysis with Python
+7. ### Product Recommendation Analysis with Python
 
 ### Project Description
 Pushing to github soon
