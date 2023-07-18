@@ -4,7 +4,7 @@
 
 ### Project Description 
 --
-Project Link: ![Repo Link]<https://github.com/seidumohammed/data-analysis/tree/main/Excel>
+Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/Excel)
 ---
 ![Completed Project Dashboard](sales-data-excel.PNG)
 ---
@@ -13,7 +13,7 @@ Project Link: ![Repo Link]<https://github.com/seidumohammed/data-analysis/tree/m
 
 ### Project Description
 --
-Project Link: ![Repo Link]<https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
+Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/PowerBI)
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 --
@@ -26,7 +26,7 @@ Project Link: ![Repo Link]<https://github.com/seidumohammed/data-analysis/tree/m
 ### Project Description
 Simple Linear Regression model that seeks to advice investors on which growing startups to invest in
 ---
-Project Link: ![Repo Link]<https://github.com/seidumohammed/data-analysis/tree/main/python_startups_investment_advisor_model>
+Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/python_startups_investment_advisor_model)
 ---
 ![First 5 data](summary.JPG)
 ---
@@ -39,14 +39,14 @@ Project Link: ![Repo Link]<https://github.com/seidumohammed/data-analysis/tree/m
 ### Project Description
 Pushing to github soon
 ---
-![Completed Project Dashboard](sales-data-excel.soon)
+[Completed Project Dashboard](sales-data-excel.soon)
 ---
 
 5. ### Child Labour Data  Analysis with Python
 ### Project Description
 Pushing to github soon
 ---
-![Completed Project Dashboard](sales-data-excel.soon)
+[Completed Project Dashboard](sales-data-excel.soon)
 ---
 
 6. ### Cricket Data Analysis Pythob, Pandas, Power BI
@@ -54,7 +54,7 @@ Pushing to github soon
 ### Project Description
 Pushing to github soon
 ---
-![Completed Project Dashboard](sales-data-excel.soon)
+[Completed Project Dashboard](sales-data-excel.soon)
 ---
 
 7. ### Product Recommendation Analysis with Python
@@ -62,5 +62,5 @@ Pushing to github soon
 ### Project Description
 Pushing to github soon
 ---
-![Completed Project Dashboard](sales-data-excel.soon)
+[Completed Project Dashboard](sales-data-excel.soon)
 ---
