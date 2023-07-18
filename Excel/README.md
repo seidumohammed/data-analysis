@@ -10,14 +10,14 @@ The project includes the following steps:
 5. Data visualization & Dashboarding
 
 ## The dashboard contains the following visualizations:
-![Bar Chart](1)
-![Pie Chart](2)
-![Tables](3)
+![Summary](sales-data-analysis-summary-info.JPG)
+![Charts](sales-data-analysis-charts.JPG)
+![Tables](sales-data-analysis-tables.JPG)
 
 The dashboard images are located in the `images` directory.
 ## Project Dashboard Image
 ---
-![Completed Project Dashboard](sales-data-excel.PNG)
+![FUll Project Dashboard](sales-data-excel.PNG)
 ---
 
 ## To run the project:
