@@ -8,7 +8,7 @@ The project includes the following steps:
 3. Data cleaning
 4. Data analysis
 5. Data visualization & Dashboarding
-
+https://github.com/seidumohammed/data-analysis/tree/main/Excel/images
 ## The dashboard contains the following visualizations:
 
 * A bar chart showing the total sales of each product
@@ -19,6 +19,10 @@ The project includes the following steps:
 [![Line chart](https://github.com/bard/data-analysis-project/blob/main/images/line_chart.png?raw=true)](https://github.com/bard/data-analysis-project/blob/main/images/line_chart.png)
 
 The dashboard images are located in the `images` directory.
+## Project Dashboard Image
+--
+[![Bar chart](https://github.com/seidumohammed/data-analysis/tree/main/Excel/images/sales-data-excel.PNG?raw=true)](https://github.com/seidumohammed/data-analysis/tree/main/Excel/images/sales-data-excel.PNG)
+--
 
 ## To run the project:
 
