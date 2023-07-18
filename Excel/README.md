@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Excel Data Analysis Project
 
 ### This project uses Excel to analyze a dataset of sales data. The dataset contains information about the products sold, the customers who purchased them, and the date of sale.
 
