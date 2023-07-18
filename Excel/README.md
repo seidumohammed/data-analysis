@@ -21,7 +21,7 @@ https://github.com/seidumohammed/data-analysis/tree/main/Excel/images
 The dashboard images are located in the `images` directory.
 ## Project Dashboard Image
 ---
-[![Completed Project Dashboard](images/sales-data-excel.png)]
+![Completed Project Dashboard](images/sales-data-excel.png)
 ---
 
 ## To run the project:
