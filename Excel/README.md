@@ -11,8 +11,11 @@ The project includes the following steps:
 
 ## The dashboard contains the following visualizations:
 ![Summary](sales-data-analysis-summary-info.JPG)
+---
 ![Charts](sales-data-analysis-charts.JPG)
+---
 ![Tables](sales-data-analysis-tables.JPG)
+---
 
 The dashboard images are located in the `images` directory.
 ## Project Dashboard Image
