@@ -10,6 +10,10 @@ The project includes the following steps:
 
 ## The dashboard contains the following visualizations:
 
+
+
+
+
 ![Charts](sales-data-analysis-charts.JPG)
 ---
 ![Tables](sales-data-analysis-charts2.JPG)
@@ -18,9 +22,11 @@ The project includes the following steps:
 
 The dashboard images are located in the `images` directory.
 ## Project Dashboard Demo
+https://github.com/seidumohammed/data-analysis/assets/55309288/9b5ecd6c-c59b-433b-8eef-a5658cd4c3d9
 --
----
-![Youtube Link](https://youtu.be/XF5ThY7yH3E)
+--- 
+## Youtube Video Link
+`https://www.youtube.com/watch?v=XF5ThY7yH3E`
 ---
 
 ## Author
