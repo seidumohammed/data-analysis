@@ -8,15 +8,11 @@ The project includes the following steps:
 3. Data cleaning
 4. Data analysis
 5. Data visualization & Dashboarding
-https://github.com/seidumohammed/data-analysis/tree/main/Excel/images
-## The dashboard contains the following visualizations:
 
-* A bar chart showing the total sales of each product
-[![Bar chart](https://github.com/bard/data-analysis-project/blob/main/images/bar_chart.png?raw=true)](https://github.com/bard/data-analysis-project/blob/main/images/bar_chart.png)
-* A pie chart showing the percentage of sales by customer type
-[![Pie chart](https://github.com/bard/data-analysis-project/blob/main/images/pie_chart.png?raw=true)](https://github.com/bard/data-analysis-project/blob/main/images/pie_chart.png)
-* A line chart showing the sales trend over time
-[![Line chart](https://github.com/bard/data-analysis-project/blob/main/images/line_chart.png?raw=true)](https://github.com/bard/data-analysis-project/blob/main/images/line_chart.png)
+## The dashboard contains the following visualizations:
+![Bar Chart](1)
+![Pie Chart](2)
+![Tables](3)
 
 The dashboard images are located in the `images` directory.
 ## Project Dashboard Image
@@ -38,6 +34,6 @@ The dashboard images are located in the `images` directory.
 
 ## Author
 
-This project was created by Bard.
+Seidu Mohammed <seidumohammed64@gmail.com>
 
 ## Date
