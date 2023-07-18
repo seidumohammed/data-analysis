@@ -4,7 +4,7 @@
 
 ### Project Description 
 --
-Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/Excel)
+Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/excel-dynamic-data-analysis_pivot_table)
 ---
 ![Completed Project Dashboard](sales-data-excel.PNG)
 ---
@@ -13,7 +13,7 @@ Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/ma
 
 ### Project Description
 --
-Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/PowerBI)
+Project Link: [Repo Link](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-dynami-data-analysis-dashboard)
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 --
