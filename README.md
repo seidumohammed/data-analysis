@@ -2,7 +2,9 @@
 
 1. ### Sales Data Analysis With Excel Using Pivot Tables And Advanced Formulas
 
-### Project Description
+### Project Description 
+--
+Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/Excel>
 ---
 ![Completed Project Dashboard](sales-data-excel.PNG)
 ---
@@ -11,6 +13,7 @@
 
 ### Project Description
 --
+Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 ---
