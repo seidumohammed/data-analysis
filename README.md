@@ -4,7 +4,7 @@
 
 ### Project Description 
 --
-Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/Excel>
+Project Link: ![Repo Link](<https://github.com/seidumohammed/data-analysis/tree/main/Excel>)
 ---
 ![Completed Project Dashboard](sales-data-excel.PNG)
 ---
@@ -13,7 +13,7 @@ Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/Excel>
 
 ### Project Description
 --
-Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
+Project Link: ![Repo Link](<https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>)
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 --
@@ -26,7 +26,7 @@ Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
 ### Project Description
 Simple Linear Regression model that seeks to advice investors on which growing startups to invest in
 ---
-Project Link: <https://github.com/seidumohammed/data-analysis/tree/main/PowerBI>
+Project Link: ![Repo Link](<https://github.com/seidumohammed/data-analysis/tree/main/python_startups_investment_advisor_model>)
 ---
 ![First 5 data](summary.JPG)
 ---
