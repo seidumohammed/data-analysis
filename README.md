@@ -47,7 +47,7 @@ Pushing to github soon
 [Completed Project Dashboard](sales-data-excel.soon)
 ---
 
-# 6. Cricket Data Analysis Pythob, Pandas, Power BI
+# 6. Cricket Data Analysis Python, Pandas, Power BI
 
 ### Project Description
 Pushing to github soon
