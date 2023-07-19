@@ -4,7 +4,7 @@
 
 #### Project Description 
 
-Project Link: [Repository Link](https://github.com/seidumohammed/data-analysis/tree/main/excel-dynamic-data-analysis_pivot_table)
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/excel-dynamic-data-analysis_pivot_table)
 ---
 ![Completed Project Dashboard](sales-data-excel.PNG)
 ---
@@ -13,7 +13,7 @@ Project Link: [Repository Link](https://github.com/seidumohammed/data-analysis/t
 
 #### Project Description
 
-Project Link: [Repository Link](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-dynami-data-analysis-dashboard)
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-dynami-data-analysis-dashboard)
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts.JPG)
 ---
@@ -24,7 +24,7 @@ Project Link: [Repository Link](https://github.com/seidumohammed/data-analysis/t
 #### Project Description
 Simple Linear Regression model that seeks to advice investors on which growing startups to invest in
 ---
-Project Link: [Repository Link](https://github.com/seidumohammed/data-analysis/tree/main/python_startups_investment_advisor_model)
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/python_startups_investment_advisor_model)
 ---
 ![First 5 data](summary.JPG)
 ---
@@ -33,11 +33,14 @@ Project Link: [Repository Link](https://github.com/seidumohammed/data-analysis/t
 ![Visualization](chart.JPG)
 ---
 
-# 4. Accident Data Analysis With Excel, Power BI and SQL 
+# 4. Road Accidents Data Analysis With Power BI 
 #### Project Description
-Pushing to github soon
+Data Analysis of road accidents dataset from 2021 - 2022 
 ---
-[Completed Project Dashboard](sales-data-excel.soon)
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
+---
+---
+[Completed Project Dashboard](road_accident_data_analysis-final.JPG)
 ---
 
 # 5. Child Labour Data  Analysis with Python
