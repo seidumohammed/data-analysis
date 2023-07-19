@@ -19,8 +19,18 @@ Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/m
 ---
 ![Completed Project Dashboard](sales-data-analysis-charts2.JPG)
 ---
+
+# 3. Road Accidents Data Analysis With Power BI 
+#### Project Description
+Data Analysis of road accidents dataset from 2021 - 2022 
 ---
-# 3. Python, Machine Learning Data Analysis Project
+Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
+---
+---
+![Completed Project Dashboard](road_accident_data_analysis-final.JPG)
+---
+---
+# 4. Python, Machine Learning Data Analysis Project
 #### Project Description
 Simple Linear Regression model that seeks to advice investors on which growing startups to invest in
 ---
@@ -31,16 +41,6 @@ Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/m
 ![Summary Statistics](summary.JPG)
 ---
 ![Visualization](chart.JPG)
----
-
-# 4. Road Accidents Data Analysis With Power BI 
-#### Project Description
-Data Analysis of road accidents dataset from 2021 - 2022 
----
-Project Link: [Repository](https://github.com/seidumohammed/data-analysis/tree/main/power_bi-road-accident-data-analysis)
----
----
-[Completed Project Dashboard](road_accident_data_analysis-final.JPG)
 ---
 
 # 5. Child Labour Data  Analysis with Python
